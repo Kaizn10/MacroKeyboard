@@ -12,6 +12,6 @@ If you want to use it aswell, you need to set ur Teamspeak Hotkeys to F7 and F9 
 Same thing for connecting to your selected Teamspeakserver - I used F12 but u can set the Keys u want.
 If u want to use other Keys,u need to change the Keys in the Code aswell.
 
-2/6 Keys used.
+2/6 Buttons used.
 
 Im not sure about the TsConnect at Windows.Iam on a Mac.Probably u need to change the Code for that.
