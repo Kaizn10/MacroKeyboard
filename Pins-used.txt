@@ -1,0 +1,13 @@
+LED - GPIO15 with a 330 Ohm Resistor
+MuteButton - GP14
+Ts Connect - GP16
+Button3 - GP17
+Button4 - GP18
+Button5 - GP19
+Button6 - GP20
+
+LCD 1602 with i2c :
+  - GND to any GND on ur Pico
+  - VCC to Pin40 (VBUS)
+  - SDA to GP00
+  - SCL to GP01
