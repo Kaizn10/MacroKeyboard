@@ -20,7 +20,7 @@ button1 = digitalio.DigitalInOut(board.GP14)
 button1.direction = digitalio.Direction.INPUT
 button1.pull = digitalio.Pull.DOWN
 
-##### TsConnect
+##### TsConnectButton
 
 button2 = digitalio.DigitalInOut(board.GP16)
 button2.direction = digitalio.Direction.INPUT
@@ -87,5 +87,4 @@ while True:
     elif not button2.value and button2_state:
         button2_state = False
 
-    # Rest des Codes
-    # ...
+
